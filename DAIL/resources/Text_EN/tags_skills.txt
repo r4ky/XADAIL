@@ -1,6 +1,5 @@
 #PH TAGS
 tagSkillClassDescription25=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oDraonCC ^wto merge a known good working copy of this mastery into DAIL.
-tagSkillClassDescription30=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission from ^oDiacred ^wto merge a known good working copy of this mastery into DAIL.
 #seriously...
 tagSkillClassDescriptionPH=^wTHIS MASTERY IS A PLACEHOLDER DO NOT CHOOSE IT. I am awaiting final permission to merge a known good working copy of this mastery into DAIL.
 #END OF PH TAGS
@@ -47,17 +46,17 @@ tagSkillClassName26=[ms]Priest[fs]Priestess
 tagSkillClassName27=Engineer
 tagSkillClassName28=Cenobite
 tagSkillClassName29=[ms]Arlequin[fs]Harlequin
-tagSkillClassName30=^pPH Elwar
-tagSkillClassName31=^pPH Alchemist
-tagSkillClassName32=^pPH Mage
-tagSkillClassName33=^pPH Voidcaller
-tagSkillClassName34=^pPH Rift Warden
-tagSkillClassName35=^pPH Outrider
-tagSkillClassName36=^pPH Champion
-tagSkillClassName37=^pPH Riftstalker
-tagSkillClassName38=^pPH Necrotic
-tagSkillClassName39=^pplaceholder39
-tagSkillClassName40=^pplaceholder40
+tagSkillClassName30=Mage
+tagSkillClassName31=Voidcaller
+tagSkillClassName32=Mercenary
+tagSkillClassName33=Stalker
+tagSkillClassName34=^pPH Elwar
+tagSkillClassName35=^pPH Alchemist
+tagSkillClassName36=^pPH Rift Warden
+tagSkillClassName37=^pPH Outrider
+tagSkillClassName38=^pPH Champion
+tagSkillClassName39=^pPH Riftstalker
+tagSkillClassName40=^pPH Necrotic
 tagSkillClassName41=^pplaceholder41
 tagSkillClassName42=^pplaceholder42
 tagSkillClassName43=^pplaceholder43
